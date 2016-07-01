@@ -1,0 +1,5 @@
+{
+  "require": {
+    "rilwis/meta-box": "4.*"
+  }
+}
